@@ -34,10 +34,11 @@ body{
       border: 2 px solid;
      border-radius:5px ; 
      width: 310px;
-     height: 419px;
+     min-height: 419px;
      background-color: #564452;
      text-align: left;
-     background:#d2c6cf
+     background:#d2c6cf;
+          
       }
        h1 h2 h3
        {
