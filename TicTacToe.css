@@ -1,0 +1,59 @@
+@media (max-width: 1800px) {
+    body {
+      width: 80%;
+    }
+}
+@media (max-width: 600px) {
+    body {
+      width: 100%;
+    }
+}
+body{
+    margin-top: 1px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: rgb(81, 15, 63);
+    justify-content: center;
+}
+.banner
+{
+    background: #3a055b;
+    height: 70px;
+    margin-top: 1px;
+}
+    
+.logo
+{
+    display: flex;
+    margin-top: 1px;
+    width: 175px;
+    
+   }
+   .campoText
+   {
+      border: 2 px solid;
+     border-radius:5px ; 
+     width: 310px;
+     height: 419px;
+     background-color: #564452;
+     text-align: left;
+     background:#d2c6cf
+      }
+       h1 h2 h3
+       {
+        text-align: justify;
+       }
+       .campoImagenText{
+        margin-top: 20px;
+        display: flex; 
+        flex-direction: row; 
+        justify-content: space-between;
+        min-width: 350px;
+       }
+       .campoImagen{
+        min-width: 350px;
+       }
+      
+
+
+
