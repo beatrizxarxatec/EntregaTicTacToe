@@ -55,6 +55,14 @@ body{
         min-width: 350px;
        }
       
+.resaltado{
+    border: thick solid greenyellow;
+    width: 100px;
+    height: 100px;
+}
 
-
-
+.sinResaltado{
+    border: thick solid transparent;
+    width: 100px;
+    height: 100px;
+}
